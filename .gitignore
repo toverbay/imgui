@@ -53,5 +53,5 @@ examples/example_sdl_opengl2/example_sdl_opengl2
 examples/example_sdl_opengl3/example_sdl_opengl3
 
 # Fargrid-specific
-#bin
-#bin-int
+bin
+bin-int
